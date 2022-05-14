@@ -6,3 +6,5 @@ Through this project, you can visualize Sorting algorithms like
 - Merge sort 
 - Quick sort
 - Heap sort
+
+Link - https://prasantsingh1729.github.io/Sorting-Visualizer/
